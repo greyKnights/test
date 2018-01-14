@@ -85,5 +85,4 @@ public class ClientDynamic {
 		clientDynamic.getServerList();
 		clientDynamic.handleBussiness();
 	}
-	
 }
